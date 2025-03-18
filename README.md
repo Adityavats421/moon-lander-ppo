@@ -48,11 +48,11 @@ The training process generates two plots:
 
 1. Rewards per episode for each objective:
 
-[Insert mo_lunar_lander_rewards.png here]
+![rewards plot](mo_lunar_lander_rewards.png)
 
 2. Episode lengths over time:
 
-[Insert mo_lunar_lander_lengths.png here]
+![lengths plot](mo_lunar_lander_lengths.png)
 
 ### Project Structure
 

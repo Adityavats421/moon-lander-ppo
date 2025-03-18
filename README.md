@@ -103,5 +103,5 @@ The PPO algorithm is adapted to handle these multiple objectives, providing a mo
 ### Acknowledgments
 
 - OpenAI Gym for the base Lunar Lander environment [Gymnasium](https://gymnasium.farama.org/)
-- MO-Gymnasium for the multi-objective version of the environment [Gymnasium](https://mo-gymnasium.farama.org/)
-- custom Implementation of the PPO; Proximal Policy Optimization algrotihm from OpenAI [PPO](https://openai.com/index/openai-baselines-ppo/)
+- MO-Gymnasium for the multi-objective version of the environment [MO-Gymnasium](https://mo-gymnasium.farama.org/)
+- custom Implementation of the PPO algrotihm from OpenAI [PPO](https://openai.com/index/openai-baselines-ppo/)

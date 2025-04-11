@@ -95,10 +95,14 @@ The PPO algorithm is adapted to handle these multiple objectives, providing a mo
 - Add support for continuous action space
 - Implement other multi-objective RL algorithms for comparison
 
-### Contributors
+## 👥 Contributors
 
-- [Haneesh Kenny](https://github.com/imkenough)
-- [Aditya Vats](https://github.com/Adityavats421)
+Thanks to these wonderful people:
+
+- [@imkenough](https://github.com/imkenough) – Model training and data processing
+- [@Adityavats421](https://github.com/Adityavats421) – Notebook structure and visualization
+
+
 
 ### Acknowledgments
 

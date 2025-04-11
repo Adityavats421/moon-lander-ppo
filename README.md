@@ -35,13 +35,17 @@ cd mo-lunar-lander-ppo
 
 2. Install the required packages:
 
-`pip install torch numpy matplotlib gymnasium mo-gymnasium box2d swig`
+```
+pip install torch numpy matplotlib gymnasium mo-gymnasium box2d swig
+```
 
 ### Usage
 
 To train the agent:
 
-`python x.py`
+```
+python x.py
+```
 
 This will start the training process and save the trained model as `mo_lunar_lander_ppo.pth`. It will also generate performance plots.
 

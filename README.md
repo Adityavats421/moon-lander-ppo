@@ -28,9 +28,10 @@ This project implements a Multi-Objective Proximal Policy Optimization (PPO) alg
 
 1. Clone this repository:
 
-`git clone https://github.com/Adityavats421/moon-lander-ppo.git`
-
-`cd mo-lunar-lander-ppo`
+```
+git clone https://github.com/Adityavats421/moon-lander-ppo.git`
+cd mo-lunar-lander-ppo
+```
 
 2. Install the required packages:
 

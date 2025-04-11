@@ -27,14 +27,12 @@ This project implements a Multi-Objective Proximal Policy Optimization (PPO) alg
 ### Installation
 
 1. Clone this repository:
-
 ```
 git clone https://github.com/Adityavats421/moon-lander-ppo.git`
 cd mo-lunar-lander-ppo
 ```
 
 2. Install the required packages:
-
 ```
 pip install torch numpy matplotlib gymnasium mo-gymnasium box2d swig
 ```
@@ -42,7 +40,6 @@ pip install torch numpy matplotlib gymnasium mo-gymnasium box2d swig
 ### Usage
 
 To train the agent:
-
 ```
 python x.py
 ```
@@ -106,7 +103,6 @@ Thanks to these wonderful people:
 
 - [@imkenough](https://github.com/imkenough) – Model training and data processing
 - [@Adityavats421](https://github.com/Adityavats421) – Notebook structure and visualization
-
 
 
 ### Acknowledgments
